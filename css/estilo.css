@@ -1,0 +1,25 @@
+
+#estrutura { width: 900px; margin: 0 auto; }
+
+/* CABEÇALHO DO SITE */
+header {width: 900px; height: 130px;}
+#logomarca {width: 300px; height: 102px; margin-top:20px;}
+
+/* NAVEGAÇÃO DO SITE */
+nav{}
+
+/* CONTEÚDO DO SITE */
+#conteudo {width: 900px; margin-top: 20px; background-image:url(img/back.jpg);}
+
+/* RODAPÉ DO SITE */
+footer {height: 40px;}
+#copyright {margin: 0 auto; width: 700px; padding-top: 10px;}
+
+/* ÁREA ADMINISTRATIVA - PÁGINA LOGIN */
+body.adm {background-color: #ccc;}
+#adm { width: 300px; margin: 0 auto; height: 280px; margin-top: 100px; background-color: #fff;}
+.formadm {color:#239b23; font-size: 16px; font-weight: bold; margin-left: 20px;}
+.formbtn {margin-left: 120px; background-color: #239b23; color: #fff}
+.btnsair {width: 10px; height: 10px;}
+#txtacesso {float: right; margin-right: 45px;}
+
